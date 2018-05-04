@@ -1,3 +1,6 @@
+//Fabiano Dutra and Adriano Chaves 
+//S2B Teste de Software 2018/1
+
 package pucrs.s2b20181.exemplo02;
 
 import static org.junit.Assert.assertEquals;
@@ -36,7 +39,7 @@ public class AppTest
            {40, 10, 50}, //1
            {20, 40, 60}, //2
            {15, 15, 30}, //3
-           {4, 6, 10} //4
+           {4, 5, 9} //4
         });
      }
 }     
