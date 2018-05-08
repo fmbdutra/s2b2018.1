@@ -1,3 +1,8 @@
+/*
+ * Fabiano M. Dutra
+ * S2B Teste de Software 2018/1
+ */
+
 package pucrs.s2b20181.exemplo02;
 
 public class App 
@@ -9,10 +14,7 @@ public class App
 			
 			somar(a,b);
 			
-			System.out.println(a+b);
-			
-			
-				
+			System.out.println(a+b);				
 		}
 		
 		

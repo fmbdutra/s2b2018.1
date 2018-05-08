@@ -1,6 +1,7 @@
-//Fabiano Dutra and Adriano Chaves
-//S2B Teste de Software 2018/1
-
+/*
+ * Fabiano M. Dutra and Adriano Chaves 
+ * S2B Teste de Software 2018/1
+ */
 
 package pucrs.s2b20181.exemplo02;
 
