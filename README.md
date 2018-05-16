@@ -6,3 +6,5 @@
 Introducing Maven, parameters tests and tests with csv file
 
 Introduzindo Maven, testes no JUnit Params e testes com arquivo .CSV
+
+Implementando Travis: http://rbittencourt.com/faca-o-build-do-seu-projeto-com-travis-ci/
