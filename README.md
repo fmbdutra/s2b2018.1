@@ -1,4 +1,4 @@
-# into-junitparams [![Build Status](https://travis-ci.org/fmbdutra/s2b20181_exemple02.svg?branch=master)](https://travis-ci.org/fmbdutra/s2b20181_exemple02)
+# into-junitparams [![Build Status](https://travis-ci.org/fmbdutra/into-junitparams.svg?branch=master)](https://travis-ci.org/fmbdutra/into-junitparams)
 
 
 
